@@ -1,3 +1,6 @@
+Name : Keval Anilbhai Patodiya
+Student ID: 202618056
+
 # NYC Airbnb Price Prediction
 
 End-to-end machine learning project that predicts nightly Airbnb prices in New York City, built for DS605: Fundamentals of Machine Learning — Lab Assignment 4.
