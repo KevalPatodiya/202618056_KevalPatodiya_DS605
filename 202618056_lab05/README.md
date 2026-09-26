@@ -1,5 +1,8 @@
 # DS605 Lab 5 — Machine Learning with Scikit-learn and From Scratch
 
+**Name:** Keval Anilbhai Patodiya
+**Student ID:** 202618056
+
 **Dataset:** UCI Productivity Prediction of Garment Employees
 **Targets:**
 - Regression → `actual_productivity` (Linear Regression)
