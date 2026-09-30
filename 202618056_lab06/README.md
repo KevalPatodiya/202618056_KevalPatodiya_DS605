@@ -1,5 +1,9 @@
 # DS605 Lab 6 - Feature Extraction and Machine Learning with Image and Text Data
 
+**Name:** Keval Anilbhai Patodiya
+
+**StudentID:** 202618056
+
 Converting raw images and word-count data into numerical features and classifying them with traditional (non-deep-learning) models.
 
 - **Part A / C (images):** Asphalt Crack dataset (Mendeley Data), 400 images, crack vs non-crack.
