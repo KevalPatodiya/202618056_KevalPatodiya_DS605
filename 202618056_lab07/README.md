@@ -1,5 +1,9 @@
 # DS605 Lab 7: Image Representation, PCA, Eigenfaces and Face Recognition
 
+**Name:** Keval Anilbhai Patodiya
+
+**Student ID:** 202618056
+
 Face recognition on the **AT&T (ORL) Database of Faces**. PCA and eigenfaces are implemented from scratch with NumPy, then compared against raw-pixel matching and traditional ML classifiers.
 
 - **Dataset:** 400 grayscale images, 40 subjects, 10 images each, 112 × 92 pixels (10,304 features per image)
